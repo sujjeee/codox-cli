@@ -1,0 +1,42 @@
+{
+  "name": "codox",
+  "version": "1.0.4",
+  "description": "CoDox : A starter template for modern web development with nextjs 13 (app route), tailwindcss, typescript, trpc, clerk auth, and prisma.",
+  "main": "index.js",
+  "bin": {
+    "codox": "./dist/index.js"
+  },
+  "scripts": {
+    "dev": "tsc -w"
+  },
+  "keywords": [
+    "nextjs-with-trpc",
+    "nextjs 13",
+    "clerk",
+    "prisma",
+    "trpc",
+    "typescript",
+    "shadcn ui"
+  ],
+  "author": "sujjeee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sujjeee/codox/issues"
+  },
+  "homepage": "https://codox.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sujjeee/codox.git"
+  },
+  "dependencies": {
+    "commander": "^11.1.0",
+    "git-clone": "^0.2.0",
+    "nanospinner": "^1.1.0"
+  },
+  "devDependencies": {
+    "@types/git-clone": "^0.2.1",
+    "@types/node": "^20.8.6",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
