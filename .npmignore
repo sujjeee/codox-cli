@@ -1,1 +1,3 @@
 .github
+node_modules
+# dist # do not ignore the dist folder
