@@ -12,9 +12,9 @@
 ## Tech Stacks 💻
 
 - ⚡ [Next.js](https://nextjs.org) 13  — The React framework with hybrid static & server rendering, and App Router 
-- 🔥 [TypeScript](https://www.typescriptlang.org)  — JavaScript with type safety and enhanced developer experience.
+- 🔥 [TypeScript](https://www.typescriptlang.org)  — JavaScript with type safety and enhanced developer experience
 - 💅 [Tailwind CSS](https://tailwindcss.com) — A utility-first CSS framework for rapid UI development
-- 🗃 [Shadcn UI](https://ui.shadcn.com/) —  A collection of beautiful and accessible components built with Radix UI and Tailwind CSS.
+- 🗃 [Shadcn UI](https://ui.shadcn.com/) —  A collection of beautiful and accessible components built with Radix UI and Tailwind CSS
 - 🌐 [tRPC](https://trpc.io) —  A toolkit for building end-to-end typesafe APIs with Next.js and any database
 - 🔒 [Clerk](https://clerk.com?utm_source=github&utm_medium=sponsorship&utm_campaign=nextjs-boilerplate) — A complete user management solution with authentication, profiles, and more
 - 📦 [Prisma](https://www.prisma.io/) — A modern ORM for Node.js and TypeScript that simplifies database access
