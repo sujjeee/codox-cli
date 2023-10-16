@@ -6,13 +6,17 @@ jobs:
     publish:
         runs-on: ubuntu-latest
         steps:
-            - name: checkout
-              uses: actions/checkout@v2
-            - name: node
-              uses: actions/setup-node@v2
+            - name: Checkout repo
+              uses: actions/checkout@v3
+            - name: Setup Node 18
+              uses: actions/setup-node@v18
               with:
-                  node-version: 12
+                  node-version: 18
                   registry-url: https://registry.npmjs.org
+            - name: Setup pnpm
+              uses: pnpm/action-setup@v8.6.1
+              with:
+                  version: 8.6.1
             - name: build
               run: pnpm install && pnpm build
             - name: publish
