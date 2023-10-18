@@ -1,6 +1,6 @@
 {
   "name": "codox",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "CoDox : A starter template for modern web development with nextjs 13 (app route), tailwindcss, typescript, trpc, clerk auth, and prisma.",
   "main": "index.js",
   "bin": {
