@@ -33,5 +33,3 @@
 ## Preview 👀
 See the preview  —  <a href="https://codox.codebustar.com/">CoDox</a>
 
-> [!IMPORTANT]  
-> Make sure to customize it according to your use case.
