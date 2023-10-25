@@ -5,9 +5,16 @@
   <img alt="CoDox – A starter template for modern web development with nextjs 13 (app route), tailwindcss, typescript, trpc, clerk auth, and prisma." src="https://codox.codebustar.com/og-image.png">
 </a>
 </kbd>
+<br/><br/>
 
-### A starter template for modern web development with nextjs 13 (app route), tailwindcss, typescript, trpc, clerk auth, and prisma.
+> A starter template for modern web development with nextjs 13 (app route), tailwindcss, typescript, trpc, clerk auth, and prisma.
 
+## Quick Installation 🚀
+> [!IMPORTANT]  
+> Make sure to use this command for quick installation.
+```ruby
+ npx codox
+```
 
 ## Tech Stacks 💻
 
@@ -25,3 +32,6 @@
 
 ## Preview 👀
 See the preview  —  <a href="https://codox.codebustar.com/">CoDox</a>
+
+> [!IMPORTANT]  
+> Make sure to customize it according to your use case.
